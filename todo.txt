@@ -1,8 +1,0 @@
-TODO
-===================================
-* check if automatic allowed to split or double down
-* check if regular allowed to split or double down
-* only allow double down on 1st hit
-* put full basic strategy
-* add card counter
-
